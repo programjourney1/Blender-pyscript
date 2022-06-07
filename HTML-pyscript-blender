@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <meta charset="UFT-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <title>Bleder Execute</title>
+</head>
+
+<body>
+    <py-script> 
+l=['app',2,3.1,'tune']
+    print(l)
+    
+</py-script>
+<py-script src="./bs.py">
+
+</py-script>
+</body>
+</html>
